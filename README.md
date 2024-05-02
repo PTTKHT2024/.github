@@ -4,6 +4,7 @@
 - Chủ đề: **...**
 ---
 ## CÔNG NGHỆ
-- Frontend: ...
-- Backend: ...
-- Công nghệ khác: **Git, Github,**
+- Frontend: **...**
+- Backend: **...**
+- Công nghệ khác: **Git, Github**
+## DANH SÁCH API
