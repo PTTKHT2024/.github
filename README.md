@@ -4,7 +4,8 @@
 - Chủ đề: **...**
 ---
 ## CÔNG NGHỆ
-- Frontend: **...**
+- Frontend: **Reactjs, Tailwind CSS,..**
 - Backend: **...**
 - Công nghệ khác: **Git, Github**
+---
 ## DANH SÁCH API
