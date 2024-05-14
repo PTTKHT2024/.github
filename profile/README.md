@@ -1,11 +1,11 @@
 ## TỔNG QUAN
 - Dự án phân tích thiết kế hệ thông
 - Nhóm K4
-- Chủ đề: **...**
+- Chủ đề: **Website bán ô tô TOYOTA**
 ---
 ## CÔNG NGHỆ
 - Frontend: **Reactjs, Tailwind CSS**
-- Backend: **...**
-- Công nghệ khác: **Git, Github,**
+- Backend: **NestJS, MySQL**
+- Công nghệ khác: **Git, Github, Docker**
 ---
 ## DANH SÁCH API
