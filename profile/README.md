@@ -1,6 +1,6 @@
 ## TỔNG QUAN
 - Dự án phân tích thiết kế hệ thông
-- Nhóm K4
+- Nhóm 4
 - Chủ đề: **Website bán ô tô TOYOTA**
 ---
 ## CÔNG NGHỆ
