@@ -5,8 +5,8 @@
 ---
 ## CÔNG NGHỆ
 - Frontend: **Reactjs, Tailwind CSS**
-- Backend: **NestJS, MySQL**
-- Công nghệ khác: **Git, Github, Docker**
+- Backend: **NestJS with TypeORM, MySQL**
+- Công nghệ khác: **Git, Github, Docker, AWS (RDS, EC2, S3)**
 ---
 ## DANH SÁCH API
 
